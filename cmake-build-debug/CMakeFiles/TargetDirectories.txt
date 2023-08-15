@@ -1,0 +1,3 @@
+/home/cha/git/camel-gps/cmake-build-debug/CMakeFiles/camel_gps.dir
+/home/cha/git/camel-gps/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cha/git/camel-gps/cmake-build-debug/CMakeFiles/rebuild_cache.dir

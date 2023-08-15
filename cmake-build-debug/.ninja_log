@@ -1,0 +1,11 @@
+# ninja log v5
+0	24	1692065272244933213	CMakeFiles/camel_gps.dir/main.cpp.o	9199e03ac69dbcfa
+0	25	1692065272252933209	CMakeFiles/camel_gps.dir/gpsInterface.cpp.o	a0a4e5d78bfff2b3
+0	87	1692065272316933170	CMakeFiles/camel_gps.dir/gps.cpp.o	7af5abbc1d654e6e
+87	101	1692065272332933160	camel_gps	9444ab71d2ef846b
+1	29	1692065306328912299	CMakeFiles/camel_gps.dir/gps.cpp.o	7af5abbc1d654e6e
+1	29	1692065306324912301	CMakeFiles/camel_gps.dir/gpsInterface.cpp.o	a0a4e5d78bfff2b3
+29	43	1692065306344912289	camel_gps	9444ab71d2ef846b
+0	25	1692065457924333514	CMakeFiles/camel_gps.dir/gpsInterface.cpp.o	a0a4e5d78bfff2b3
+0	91	1692065457992332695	CMakeFiles/camel_gps.dir/gps.cpp.o	7af5abbc1d654e6e
+92	106	1692065458004332551	camel_gps	9444ab71d2ef846b
